@@ -6,6 +6,7 @@ let x = 5;
 let y = "5";
 console.log(x + y);
 ```
+
 Explain why that output occurs.
 
 2) Fix the bug so each line logs a number, not a string:
