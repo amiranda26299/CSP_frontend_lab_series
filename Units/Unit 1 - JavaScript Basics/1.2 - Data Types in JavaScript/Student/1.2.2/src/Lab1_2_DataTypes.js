@@ -5,10 +5,10 @@
 
 // TODO 1: Declare one variable for each primitive type discussed in the PDF.
 // string, number, boolean, null, undefined
-let s; // = ?
-let n; // = ?
-let b; // = ?
-let z; // = null
+let s = "Hello";
+let n = 42;
+let b = true;
+let z = null;
 let u; // (leave undefined)
 
 // TODO 2: Use typeof to log each variable's type.
